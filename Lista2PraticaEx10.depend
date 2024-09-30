@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1727731978 source:c:\users\eduardo\desktop\lista2praticaex10\lista2praticaex10.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
